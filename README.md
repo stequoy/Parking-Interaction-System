@@ -19,6 +19,7 @@ Our solution addresses the inefficiencies in current parking systems by providin
 - **Arduino Circuit**: Interfaces with parking gates to control access based on recognized car-plate numbers.
 - **Telegram Bot**: Serves as the user interface for registration and notifications.
 ![Example Image](https://github.com/stequoy/Parking-Interaction-System/blob/main/images/intergration%20approach.png)
+![Example Image](https://github.com/stequoy/Parking-Interaction-System/blob/main/images/alternative%20approach.png)
 
 ## Inference
 - train_... notebooks produce trained tflite models
