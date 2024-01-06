@@ -1,7 +1,7 @@
 # Parking Interaction System
 
 ## Introduction
-The Parking Interaction System is an innovative solution combining hardware and software to enhance the interaction with public parking spaces equipped with entrance gates. Our system uses a combination of embedded Google Coral systems, cloud databases, and a user-friendly interface through a Telegram bot. The primary aim is to automate access to parking spaces using computer vision models for car-plate number recognition. For more information you can read [project report](https://drive.google.com/file/d/13EPkbvAllHFcw8iKntHJ6y3KRFjevMNH/view?usp=sharing) or [presentation](https://drive.google.com/file/d/15JpzKiO-78GykuHAe_xsVvMI4-tt5gcC/view?usp=sharing)
+The Parking Interaction System is an innovative solution combining hardware and software to enhance the interaction with public parking spaces equipped with entrance gates. Our system uses a combination of embedded Google Coral systems, cloud databases, and a user-friendly interface through a Telegram bot. The primary aim is to automate access to parking spaces using computer vision models for car-plate number recognition. For more information you can read [project report](https://drive.google.com/file/d/13EPkbvAllHFcw8iKntHJ6y3KRFjevMNH/view?usp=sharing) or [presentation](https://drive.google.com/file/d/15JpzKiO-78GykuHAe_xsVvMI4-tt5gcC/view?usp=sharing).
 
 ## Features
 - **Embedded Google Coral System**: Utilizes cutting-edge technology for object detection and character recognition.
